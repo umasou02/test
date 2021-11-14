@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>kimhangbeauty.com</title>
+	<link rel="stylesheet" type="text/css" href="about.css">
+</head>
+<body >
+<div class="header">
+	<br>
+	<h1>MAILOVESBEAUTY</h1>
+    <h6>A BLOG by HANH MAI NGUYEN</h6>
+</div>
+<br><br><br>
+<div >
+<ul id="menu">
+<li><a href="#">HOME</a></li>
+<li><a href="#">ABOUT</a>
+    <ul id="sub">             
+       <li><a href="#">About Me</a></li>
+       <li><a href="#">Contact</a></li>  
+    </ul>     
+</li>
+<li><a href="#">BEAUTY</a>
+    <ul id="sub">             
+       <li><a href="#">Skincare</a></li>
+       <li><a href="#">Makeup</a></li> 
+       <li><a href="#">Body &amp; Hair</a></li>
+		<li><a href="#"> Beauty Tips</a></li>
+		<li><a href="#">Fragrance</a></li> 
+    </ul>     
+</li>
+<li><a href="#">LIFESTYLE</a>
+    <ul id="sub">             
+        <li><a href="#">Books</a></li>
+		<li><a href="#">Home Cook</a></li>
+		<li><a href="#">Life Experience</a></li>
+		<li><a href="#">Love &amp; Relationships</a></li>
+		<li><a href="#">Traveling</a></li>
+    </ul>     
+</li>
+<li><a href="#">VLOGS</a></li>
+<li><a href="#">Search</a></li>
+</ul>
+</div>
+<br><br>
+<hr width="1100px">
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h3 align="center" style="color: greenyellow;">ABOUT</h3>
+      <hr width="300px">
+      <br><br><br>
+     <div align="center">
+     	<img src="https://scontent.fhan3-4.fna.fbcdn.net/v/t1.6435-1/p200x200/136074880_441878113648365_8893516139248843363_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=7206a8&_nc_ohc=B5t9-Q30Rx4AX-PL0ki&tn=sjYMlqpjdRGGqRd4&_nc_ht=scontent.fhan3-4.fna&oh=1ad25689fe5c917b4d401d36edef9a64&oe=618A9553" width="700px">
+    </div>     
+    </div>    
+    <div>    
+      <p>Mình là Hạnh Mai, sinh năm 1992, cung Thiên Bình tại Hà Nội. Mình lập blog Mailovesbeauty từ tháng 1 năm 2014, đến nay (2019) đã hơn 5 năm. Mailovesbeauty là nơi mình chia sẻ tất cả những trải nghiệm của mình về làm đẹp, phong cách sống, những gì mình yêu thích, học hỏi và tạo nên mình của ngày hôm nay. </p>
+      <p>Tốt nghiệp ngành Môi Trường của trường Đại học Khoa Học Tự Nhiên (ĐH Quốc Gia Hà Nội) nhưng sau khi ra trường mình lại cảm thấy đam mê dành cho việc viết lách, chia sẻ nhiều hơn nên đã lựa chọn theo đuôi con đường này. Mình cảm thấy rất hạnh phúc khi được làm công việc mình yêu thích, được chia sẻ với các bạn thật nhiều điều. Hy vọng các bạn có thể tìm thấy những điều thú vị tại đây và mình sẽ rất vui nếu bạn thường xuyên trò chuyện với mình bằng cách comment trong mỗi bài viết, video đấy nhé! </p>
+      <p>Cám ơn các bạn rất nhiều vì đã đọc những dòng chia sẻ này !</p>
+        <p>Love,</p>
+        <p>Hạnh Mai</p>
+    </div>
+</div>
+    <div class="rightcolumn">
+    <div class="card">
+      <table align="center" style="border: 1px solid black;">
+        <tr>
+        <td>
+      <h2 align="center" style="color:greenyellow;">WELCOME</h2>
+      <hr width="100px">
+     <div class="fakeimg"><p style="color: greenyellow;">Hello! I'm Hanh Mai, 1992 born, Hanoian. My blog has been published since 2014 when I was a student. Here is the place I will share with you my experience & feeling about all things I've loved, learnt and discovered!</p></div>
+     </td>
+   </tr>
+     </table>
+    </div>
+    <div class="card">
+      <table align="center" style="border: 1px solid black;">
+        <td>
+      <h3 align="center" style="color:greenyellow">KEEP IN TOUCH</h3>
+      <hr width="100px">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAjVBMVEXp4tgAAAAAAAPr49vNyMXr5NnZ0szn5Nk2NDGXlZLy7+bs5+Dp49fJxb1WVlNeXFmGhYLu5d/u6uDs4tf07Obf19LHwLu4s66vq6aZk5Lp4tynpJ+BfnxWU1IwLy4NDAs+Ozdra2ghIR7X2NRKSUc8PT0gGhuioJuNi4bU08nv7+p0cWyxrqkrKCXQzMMMa4KZAAAD8UlEQVR4nO3dfVfaMBjG4ZQQIk1RSCO4ijDUDWSO7//xlhadQLFvdOuTeP/+2MuZ3el1UkvaBmQMIYQQQgghhBBCCCGEUIfxiEXRZ/8Y2Vj8P3fnnxR9LsyyQln8FXTj3P4SR3EWP9MkjbOCUaZdamCCK2OS2/50djfM9812p6SjQp5MJiYZ3c8fFsugoOutY8LEjpyIpFJbNR1/P6T09r3/bv+UdWO63uUGRVKr2apo4A5yTSjSVwCdDB/3g+ahMEoP0PHfo9JHoQzXFQ9PN4VSPT3XA7om1LOaPseE3AxrA10S2m/BeVDl3OKskIWb4PCl3C+hvUDg6r72+DkkTIH9RkB3hEny6LUwYmbeDOiKUMpBg9OoS8IofGg4hK4I5agp0BWhXvktFOyp6XehI0Imhn4L7UX9j6Y+K9R2utA1oSwxaA50QzhpNiN1RRixxKy8F/6sZDl/WXWjuhaUxVmUXAB04J43Z2Ja0be8no9zrck/t7DCKieaZfAw1aE6SqcpTv3ZkxVWunBaGynsl4uPss1j+s8POdM3FYAznXdkz9/i9GRFOslMhRnNWne9n82TTJXfv3jedr2bFyQZL3wCGqST8in5F72CIs5KBrAXLIzbKy5uS4Ub7bSQl90o7QUzQXvmWVxshcWXv71gJ3wfw4HTYwjhXtj1Tl5UJaHsei8vCUII6QchhPSD8AsIAyt0eubNqoyh00JRPoYvwumJaRUh8TuiJYnyVQruCNMd3W7Do7bbl1Lh0+lG7xkTKvuf0rl6lJLp1eLqpEWp8HSLw41/aWrC6zyg5nrL48YEhb185ZAzG+23fCV3lJ4Zw4vqkxLawraFnNqzp7aFvw21J6RtC9MlUX4LN9p34Su595C2K0wfaXQtOq3tMeS+Cx/DrkG5WhYSXF3asnAz6RqUq01hOiuld3ujZeHOc6E9lfouvFK+C1f0TqUtn0uHBJe7tSucEVwN1u5RuiN1db+v3TFMCApNm8IrQ00oJTON32gYvN1wO/j7ylAbxL2w7o3EE9zBphtFUJjdL71gGD/IQXoqJQbMxrDuJ3sUNegadC6+G53Ufy2VzEb9062yCL4asqM3TLxVaW1ifrP0vadOFFUS0ptg18n79aXeC2OsoP0CK4YgJB+EENIPQgjpByGE9IMQQvpBCCH9IISQfhBCSD8IIaQfhBDSD0II6QchhPSDEEL6QQgh/SCEkH4QQkg/CCGkH4QQ0g9CCOkHIYT0gxBC+kEIIf0ghJB+EEJIPwghpB+EzgurfbaJy0LByn9GycDpnzMTi5fNsKRb5vanKDGtCtM0P9KrtewB6vIhihBCCCGEEEIIIYQQQohefwBkYVL7wIVQ0AAAAABJRU5ErkJggg==" width="50px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzdk9qDusFlc1t2pgtjTxU6L1M4F4YH5yY1A&usqp=CAU" width="50px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9qA4hC7tuW2osmeE5Wqqf4_oaoU9HyTmnA&usqp=CAU" width="50px">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsEYdJSIt8-QMdSTN2B9_AkeMBFw9XpdPcg&usqp=CAU" width="50px">      
+      </td>
+      </table>    
+    </div>
+    <div class="card">
+      <table align="center" style="border: 1px solid black;">
+        <td>
+      <h3 align="center" style="color:greenyellow">MOST READ</h3>
+      <hr width="100px">
+      <p align="center" style="color:red;">TẠI SAO KHI ĐÃ HẾT YÊU ĐÀN ÔNG THƯỜNG RẤT "PHŨ"?</p><br>
+      <p align="center" style="color:red">CÁC LOẠI THỰC PHẨM CHỨC NĂNG MÌNH ĐANG SỬ DỤNG (UPDATE THÁNG 8/2021)</p><br>
+      <p align="center" style="color:red">REVIEW | PAULA'S CHOICE PEPTIDE BOOSTER</p><br>
+      <p align="center" style="color:red">CÓ NÊN QUEN ĐÀN ÔNG “KEO KIỆT”?</p><br>
+      <p align="center" style="color:red">ĐỘNG LỰC TRONG VIỆC SỐNG LÀNH MẠNH CỦA MÌNH TỚI TỪ ĐÂU?</p><br>
+      <p align="center" style="color:red">REVIEW | MOROCCANOIL TREATMENT</p>
+      </td>
+    </table>
+     </div>
+     <div class="card">
+       <table align="center" style="border: 1px solid black;">
+        <td>
+     	<h3 align="center" style="color:greenyellow">INSTAGRAM</h3>
+     	<hr width="100px">
+      <div><img src="https://scontent.fhan3-1.fna.fbcdn.net/v/t1.6435-9/p206x206/107790895_312136839955827_5874949607020656839_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=da31f3&_nc_ohc=6zYC96czpNAAX80-57I&_nc_ht=scontent.fhan3-1.fna&oh=c26f54ed9cf73b09f6d80c11d43d3d91&oe=618CEFBD" width="100px">
+      <img src="https://scontent.fhan3-5.fna.fbcdn.net/v/t1.6435-9/107330685_311904903312354_8626695008701122983_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=9QJl-2K6BZMAX8HDPHF&_nc_ht=scontent.fhan3-5.fna&oh=09d0cb38c05e43456b43fe489ed5ac31&oe=618E932B" width="100px">
+      <img src="https://scontent.fhan3-5.fna.fbcdn.net/v/t1.6435-9/p206x206/77010896_183186186184227_7465376664868880384_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=da31f3&_nc_ohc=bamRkRxs_wMAX8_lBK2&_nc_ht=scontent.fhan3-5.fna&oh=69c38f183ebf9d3b0865c1754aa809d6&oe=618B4DBC" width="100px">
+    </div>
+    <div>
+      <img src="https://scontent.fhan3-3.fna.fbcdn.net/v/t1.6435-9/s206x206/83621962_206019603900885_3459485239397580800_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=da31f3&_nc_ohc=7pRfOC49DVwAX_I4IcN&_nc_ht=scontent.fhan3-3.fna&oh=79cdf3436ec3cd0464f4c413d5149ed5&oe=618BC61E" width="100px">
+      <img src="https://scontent.fhan3-3.fna.fbcdn.net/v/t1.6435-9/c34.0.206.206a/p206x206/107731652_311904876645690_1384801617398800195_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=da31f3&_nc_ohc=5VkbM9j1f50AX-KP9-N&_nc_ht=scontent.fhan3-3.fna&oh=83300a7058a99377e0cea2042199fde7&oe=618CDCB1" width="100px">
+      <img src="https://scontent.fhan3-1.fna.fbcdn.net/v/t1.6435-9/p206x206/120932265_374432310392946_9036446660139592861_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=da31f3&_nc_ohc=HedDrXyKy4AAX-KYu5e&_nc_ht=scontent.fhan3-1.fna&oh=5fec0ea8cf12bd8ff2ed2a5a18ac099f&oe=618E1CAF" width="100px">
+    </div>
+     </td>
+     	</table>
+     </div>
+     <div class="card">
+      <table align="center" style="border: 1px solid black;">
+        <td>
+     	<h3 align="center" style="color:greenyellow">BE A FRIEND</h3>
+     	<hr width="100px">
+      <div>
+        <img src="https://scontent.fhan4-3.fna.fbcdn.net/v/t1.6435-9/c0.23.206.206a/p206x206/126820329_410999740069536_7881332014084998989_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=da31f3&_nc_ohc=TPMMIhcdnGMAX_9NNEz&_nc_ht=scontent.fhan4-3.fna&oh=25decd8346b1a9733272840eb91035b5&oe=618EE30A" width="150px">
+        <img src="https://scontent.fhan3-1.fna.fbcdn.net/v/t1.6435-9/c0.23.206.206a/p206x206/125557212_410999423402901_463811377064840470_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=da31f3&_nc_ohc=MVGrEtihKWAAX9RjsZp&_nc_ht=scontent.fhan3-1.fna&oh=54b820f29f2b23005fd0437d387e829e&oe=618ED57A" width="150px">
+        <img src="https://scontent.fhan3-3.fna.fbcdn.net/v/t1.6435-9/c34.0.206.206a/p206x206/99090646_278726256630219_2588633469982605312_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=da31f3&_nc_ohc=qdrFGz2ng6wAX-bCQ7p&_nc_ht=scontent.fhan3-3.fna&oh=df639bbbd349dcb9da969a4b3b0520a9&oe=618B57AE" width="150px">
+      </div>
+      </td>
+    </table>
+     </div>
+     <div class="card">
+      <table align="center" style="border: 1px solid black;">
+        <td>
+     	<h3 align="center" style="color:greenyellow">NEWEST VIDEO</h3>
+     	<hr width="100px">
+      <div>
+        <iframe width="300px" height="300px" src="https://www.youtube.com/embed/f7kD3Sr-qDQ?loop=2" allowfullscreen></iframe>
+     </div>
+     </td>
+   </table>
+     </div>
+     <div align="center">
+      <table align="center" style="border: 1px solid black;">
+        <td>
+     	<h3>ARCHIVE</h3>
+     	<p>▼  2021 (21)</p>
+<p>▼  September (10)</p>
+<p>ĐỘNG LỰC TRONG VIỆC SỐNG LÀNH MẠNH CỦA MÌNH TỚI TỪ...</p>
+<p>CÓ NÊN QUEN ĐÀN ÔNG “KEO KIỆT”?</p>
+<p>RECIPE | 3 HEALTHY KOREAN MEALS</p>
+<p>RECIPE | Pate chay từ nấm & hạt</p>
+<p>BUỔI SÁNG MÌNH LÀM GÌ? | My Morning Routine</p>
+<p>MÌNH THAM KHẢO CÁC THÔNG TIN VỀ PLANT-BASED DIET Ở...</p>
+<p>3 ĐIỀU VỀ BẢN THÂN MÌNH MUỐN SỬA</p>
+<p>LÀM THẾ NÀO KHI MÌNH ĂN KHÁC GIA ĐÌNH
+KỂ CHUYỆN 5 NĂM TRƯỚC</p>
+<p>MÌNH KHÔNG CÒN ĂN THỊT NỮA</p>
+<p>► August (7)</p>
+<p>►  July (3)</p>
+<p>►  April (1)</p>
+<p>►  2020 (19)</p>
+<p>►  2019 (86)</p>
+<p>►  2018 (48)</p>
+<p>►  2017 (70)</p>
+<p>►  2016 (92)</p>
+<p>►  2015 (120)</p>
+► <p> 2014 (147)</p>
+</td>
+</table>
+  </div>
+  </div>
+</div> 
+</body>
+</html>
